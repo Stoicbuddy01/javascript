@@ -36,7 +36,7 @@ console.log(gameName.split('-'));
 
 
 /*
-*****KEY POINTS*******
+*****STRINGS AND ITS DIFFERENT TYPES OF METHODS *******
 
 
 String {'ankitc'}
