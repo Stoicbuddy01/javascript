@@ -40,7 +40,7 @@ function loginUserMessage(username = "sam"){
 // console.log(loginUserMessage("hitesh"))
 
 
-function calculateCartPrice(val1, val2, ...num1){
+function calculateCartPrice(val1, val2, ...num1){    // ...num1 means it puts all the value inside an array 
     return num1
 }
 
