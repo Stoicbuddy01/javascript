@@ -1,3 +1,3 @@
 # javascript
-PRACTICE TO NEVER GIVE uppppp
+PRACTICE TO NEVER GIVE upppppppp
 
