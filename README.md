@@ -1,3 +1,3 @@
 # javascript
-PRACTICE TO NEVER GIVE upppppppp
+PRACTICE TO NEVER GIVE UP
 
