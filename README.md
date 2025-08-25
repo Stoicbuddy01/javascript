@@ -1,2 +1,2 @@
 # javascript
-PRACTICE UPPO
+PRACTICE UPP
